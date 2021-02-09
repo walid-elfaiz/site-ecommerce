@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.header{
+    height:400px;
+    background-color:gray;
+    padding:7px;
+    margin:0;
+    background-image:linear-gradient(to bottom,black,#0008),url('acceuil.jpeg');
+    background-repeat:no-repeat;
+    background-position: 100%,100%;
+    background-size:cover;
+}
+
+article{
+    background-color: lightgray;
+    padding: 10px;
+}
+nav,a{
+    margin:10px;
+    text-align: center;
+    text-decoration: none;
+    background-color:white;
+    color:black;
+    }
+   a:hover{
+       text-decoration: underline;
+   }
+
+footer{
+    background-color:gray;
+    padding:10px
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+}
+form{
+    margin-left:50px ;
+    width:200px;
+}
+.image{
+    width:10px
+}

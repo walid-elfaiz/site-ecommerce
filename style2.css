@@ -1,0 +1,35 @@
+body{
+    background-image: url("acceuil.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat ;
+}
+     h3{
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+   color: WHITE;
+}
+.formulaire{
+    max-width:380px;
+    margin:auto;
+   margin-top: 100px;
+  background-color: rgba(0,0,0,0.7);
+  text-align: center;
+ padding: 40px;
+ box-sizing: border-box;
+  
+}
+
+
+input
+{   width: 100%;
+    margin: 30px auto;
+    outline: none;
+    background-color:transparent;
+    color: white;
+    padding: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    box-sizing: border-box;
+
+}

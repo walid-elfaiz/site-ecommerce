@@ -1,0 +1,12 @@
+.back_btn{
+    width: 30%;
+    margin: 30px auto;
+    outline: none;
+    background-color:transparent;
+    color: rgb(202, 50, 50);
+    padding: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    box-sizing: border-box;
+
+}
