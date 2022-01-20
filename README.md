@@ -1,2 +1,2 @@
-# site-ecom1
+# site-ecommerce
 Site web e-commerce 
